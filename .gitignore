@@ -1,0 +1,6 @@
+# Only the published page goes to GitHub (public repo). Scripts and data stay on this Mac.
+/*
+!/docs/
+!/README.md
+!/.gitignore
+.DS_Store
